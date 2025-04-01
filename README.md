@@ -1,1 +1,1 @@
-# We all write code cause we all expressing ourselves
+This is Fafi application and calculator that was programmed in ruby
